@@ -14,7 +14,7 @@ public class DropWizardApplication extends Application<DropWizardConfiguration> 
 
     @Override
     public String getName() {
-        return "hello-world";
+        return "hello-world2";
     }
 
     @Override
